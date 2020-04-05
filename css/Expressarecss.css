@@ -17,3 +17,17 @@
 .fa-facebook {
     margin-left: 10px;	
 }
+
+.NameContainer {
+    padding-top: 80px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.Brandname {
+    font-family: bebas-neue;
+    font-style: normal;
+    font-size: 55px;
+    vertical-align: middle;
+    letter-spacing: 11px;
+	}
