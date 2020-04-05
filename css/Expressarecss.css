@@ -10,6 +10,7 @@
     float: right; 
 }
 
+
 .fa {
 	float: left; 
 }
@@ -30,4 +31,47 @@
     font-size: 55px;
     vertical-align: middle;
     letter-spacing: 11px;
-	}
+}
+
+.navbar {
+    margin: 0 auto;
+    width: 700px;
+    font-family: courier;
+    font-weight: bold;
+}
+
+.nav-item {
+	margin: 5;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.hovers:hover {
+	font-weight: bold;
+}
+
+
+.btn {
+	font-family: courier;
+	
+}
+
+.big-banner {
+    background-color: #FF0414;
+    height: 200px;
+	width: 1000px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.banner-text {
+	font-family: courier;
+	font-weight: bold;
+	padding: 70px 0;
+	text-align: center;
+	
+
+
+	
+}
