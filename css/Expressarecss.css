@@ -1,1 +1,19 @@
 @charset "utf-8";
+
+.topbanner {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn {
+    float: right; 
+}
+
+.fa {
+	float: left; 
+}
+
+.fa-facebook {
+    margin-left: 10px;	
+}
