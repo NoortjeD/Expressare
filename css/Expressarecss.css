@@ -136,3 +136,8 @@
 .download-button {
 	margin-top: 20px;
 }
+
+.screenshot {
+	float: right;
+	margin-right: 90px 
+}
