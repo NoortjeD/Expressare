@@ -103,5 +103,36 @@
 }
 
 .footer {
-	background-color: antiquewhite
+	background-color: #0A0A1E
+}
+
+.image-banner {
+	background-color: #51F1E3;
+	height: 320px;
+	
+}
+
+.appstore {
+    float: left;
+}
+
+.banner-text2{
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 0px;
+    margin-top: -70px;
+}
+
+.banner-buttons {
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.footer-text {
+	color: white;
+}
+
+.download-button {
+	margin-top: 20px;
 }
