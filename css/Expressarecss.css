@@ -141,3 +141,39 @@
 	float: right;
 	margin-right: 90px 
 }
+
+.centered-and-cropped {
+	object-fit: cover
+}
+
+.sub-about-us {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: courier;
+	font-weight: bold;
+}
+
+.names {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	padding-top: 10px;
+	text-align: center;
+}
+
+.who-are-we {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: courier;
+	font-weight: bold;
+}
+
+.about-us-text {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+.about-us-bullet {
+	padding-bottom: 5px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: large;
+}
