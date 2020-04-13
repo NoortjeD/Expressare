@@ -52,6 +52,7 @@
 
 .btn {
 	font-family: courier;
+	margin-right: 20px;
 	
 }
 
@@ -102,7 +103,18 @@
 }
 
 .footer {
-	background-color: #0A0A1E
+	background-color: #0A0A1E	
+}
+
+.footer-text {
+	color: white;
+	text-align: center;
+}
+
+.footer-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .image-banner {
@@ -113,6 +125,7 @@
 
 .appstore {
     float: left;
+	margin-left: 50px;
 }
 
 .banner-text2{
@@ -128,9 +141,6 @@
 	margin-top: 20px;
 }
 
-.footer-text {
-	color: white;
-}
 
 .download-button {
 	margin-top: 20px;
@@ -206,7 +216,6 @@
 /* Style the container/contact section */
 .container {
 	border-radius: 5px;
-
 	padding: 10px;
 }
 
