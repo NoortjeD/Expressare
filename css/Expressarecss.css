@@ -230,6 +230,14 @@
 	background-color: #FFAB92
 }
 
+.sub-title2 {
+	background-color: #FFB8BC;
+}
+
+.home-text {
+	font-size: large;
+}
+
 .names {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	padding-top: 10px;
