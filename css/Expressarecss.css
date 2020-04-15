@@ -56,8 +56,35 @@
 	
 }
 
-.big-banner {
+.big-banner1 {
     background-color: #FF0414;
+    height: 200px;
+
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.big-banner2 {
+    background-color: #FF6437;
+    height: 200px;
+
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.big-banner3 {
+    background-color: #FFD761;
+    height: 200px;
+
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.big-banner4 {
+    background-color: #FF42AD;
     height: 200px;
 
 	margin: auto;
@@ -126,6 +153,8 @@
 .appstore {
     float: left;
 	margin-left: 50px;
+	margin-top: 10px;
+	margin-botom: 10px;
 }
 
 .banner-text2{
@@ -134,11 +163,18 @@
     font-weight: 400;
     padding-top: 0px;
     margin-top: -70px;
+	text-align: center;
 }
 
 .banner-buttons {
-	margin-left: 10px;
-	margin-top: 20px;
+    margin-top: 20px;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner-buttons1 {
+	margin-right: 10px;
 }
 
 
