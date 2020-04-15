@@ -101,24 +101,41 @@
 	
 }
 
+
 .bulletpoints {
     margin-left: 90px;
     font-size: x-large;	
+	width: 1000px;
 }
 
 .title {
 	font-family: courier;
 	font-weight: bold;
+	width: 500px;
 }
 
 .text {
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;	
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: medium;
 	
 }
 
 .New-vacancies {
-	margin-left: 90px;
-    font-size: x-large;	
+    margin-left: 90px;
+	font-size: medium;
+}
+
+.vacancy-row {
+	width: 1000px;
+}
+
+.reviews-row {
+	width: 1000px;
+	margin-left: 20px;
+}
+
+.reviews {
+	margin-left: 50px;
 }
 
 .text-bold {
@@ -126,11 +143,22 @@
 }
 
 .card-text {
-	width: 330px;
+	width: 300px;
+	font-size: 15px;
+}
+
+.card-body {
+	width: 400px;
+}
+
+.card-img {
+    width: 200px;
+    margin-top: 15px;
 }
 
 .footer {
-	background-color: #0A0A1E	
+    background-color: #0A0A1E;
+	margin-top: 90px;
 }
 
 .footer-text {
@@ -184,7 +212,7 @@
 
 .screenshot {
 	float: right;
-	margin-right: 90px 
+	margin-right: 90px;
 }
 
 .centered-and-cropped {
