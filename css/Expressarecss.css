@@ -85,7 +85,6 @@
 .big-banner4 {
     background-color: #FF42AD;
     height: 200px;
-
 	margin: auto;
 	padding: 10px;
 	text-align: center;
@@ -234,6 +233,10 @@
 	background-color: #FFF4D6;
 }
 
+.sub-title4 {
+	background-color: #FFC3E5;
+}
+
 .home-text {
 	font-size: large;
 }
@@ -319,7 +322,6 @@
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column, input[type=submit] {
-    width: 100%;
     margin-top: 0;
-  }
+	}
 }
