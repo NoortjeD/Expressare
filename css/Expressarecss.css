@@ -59,7 +59,6 @@
 .big-banner1 {
     background-color: #FF0414;
     height: 200px;
-
 	margin: auto;
 	padding: 10px;
 	text-align: center;
@@ -102,22 +101,26 @@
 }
 
 
-.bulletpoints {
-    margin-left: 90px;
-    font-size: x-large;	
-	width: 1000px;
-}
-
 .title {
     font-family: courier;
     font-weight: bold;
     background-color: #FF6437;
 }
 
+.card-title {
+	font-family: courier;
+    font-weight: bold;
+}
+
+
+.text2 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: x-large;
+}
+
 .text {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-size: medium;
-	
 }
 
 .New-vacancies {
@@ -207,7 +210,8 @@
 
 .screenshot {
 	float: right;
-	margin-right: 10px;
+	margin-right: 50px;
+	padding-right: 10px;
 }
 
 .centered-and-cropped {
@@ -227,6 +231,10 @@
 
 .sub-title2 {
 	background-color: #FFB8BC;
+}
+
+.sub-title3 {
+	background-color: #FFF4D6;
 }
 
 .home-text {
