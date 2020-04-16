@@ -165,6 +165,11 @@
 	text-align: center;
 }
 
+.footer-text1:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 .footer-img {
     display: block;
     margin-left: auto;
