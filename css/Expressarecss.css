@@ -157,6 +157,8 @@
 .reviews-row {
     margin-left: 20px;
     margin-top: 10px;
+	display: flex;
+	flex-direction: row;
 }
 
 .text-bold {
