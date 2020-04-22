@@ -270,6 +270,13 @@ html,body
 }
 
 .screenshot {
+	float: left;
+	margin-right: 50px;
+	padding-right: 10px;
+	margin-bottom: 10px;
+}
+
+.screenshot1 {
 	float: right;
 	margin-right: 50px;
 	padding-right: 10px;
