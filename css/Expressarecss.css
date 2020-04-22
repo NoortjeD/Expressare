@@ -15,11 +15,6 @@ html,body
     margin-right: 20px;
 }
 
-.btn {
-    float: right; 
-}
-
-
 .fa {
 	float: left; 
 }
@@ -78,7 +73,7 @@ html,body
 .btn {
 	font-family: courier;
 	margin-right: 20px;
-	
+	float: right;	
 }
 
 .big-banner1 {
@@ -125,7 +120,7 @@ html,body
 	font-family: courier;
 	font-weight: bold;
 	padding: 70px 0;
-	text-align: center;
+	text-align: lefr;
 	font-size: 50px;
 }
 
@@ -248,7 +243,6 @@ html,body
 .appstore {
     float: right;
 	margin: 10px;
-	
 }
 
 .banner-text2{
@@ -257,7 +251,7 @@ html,body
     font-weight: 400;
     padding-top: 0px;
     margin-top: -70px;
-	text-align: center;
+	text-align: left;
 }
 
 .banner-buttons {
@@ -268,13 +262,9 @@ html,body
 }
 
 .banner-buttons1 {
-	float: right;
-}
-
-.banner-buttons2 {
 	float: left;
+	margin-left: 10px;
 }
-
 
 .download-button {
 	margin-top: 20px;
