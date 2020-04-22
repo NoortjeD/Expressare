@@ -250,10 +250,6 @@ html,body
 	
 }
 
-.appstore {
-	margin: 10px;
-}
-
 .banner-buttons {
     margin-top: 20px;
     display: flex;
@@ -277,6 +273,11 @@ html,body
 	float: right;
 	margin-right: 50px;
 	padding-right: 10px;
+	margin-bottom: 10px;
+}
+
+.theapp-li {
+	margin-right: 10px;
 }
 
 .centered-and-cropped {
