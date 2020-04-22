@@ -270,21 +270,7 @@ html,body
 }
 
 .screenshot {
-	margin-right: auto;
-	padding-right: auto;
-	margin-bottom: 10px;
-}
-
-.screenshot1 {
-	margin-right: 10px;
-	padding-right: auto;
-	margin-bottom: 3px;
-}
-
-.screenshot2{
-	margin-right: 10px;
-	padding-right: auto;
-	margin-bottom: 3px;
+	margin: 2px;
 }
 
 .theapp-li {
