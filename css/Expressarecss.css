@@ -158,6 +158,13 @@ html,body
 	padding: 10px;
 }
 
+.card-padding2 {
+	padding-bottom: 5px;
+}
+
+.card-padding3 {
+	padding-bottom: 15px;
+}
 
 .text2 {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
