@@ -247,7 +247,8 @@ html,body
 
 .appstore {
     float: left;
-	padding-top: 10px;
+	margin: 10px;
+	
 }
 
 .banner-text2{
