@@ -270,7 +270,7 @@ html,body
 }
 
 .screenshot {
-	margin-right: 15px;
+	float: left;
 }
 
 .theapp-li {
