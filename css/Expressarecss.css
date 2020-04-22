@@ -270,9 +270,8 @@ html,body
 }
 
 .screenshot {
-	float: left;
-	margin-right: 50px;
-	padding-right: 10px;
+	margin-right: auto;
+	padding-right: auto;
 	margin-bottom: 10px;
 }
 
@@ -284,7 +283,7 @@ html,body
 }
 
 .theapp-li {
-	margin-right: 10px;
+	text-align: left;
 }
 
 .centered-and-cropped {
