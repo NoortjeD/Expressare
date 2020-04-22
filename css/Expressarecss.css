@@ -264,6 +264,14 @@ html,body
 	margin-top: 20px;
 }
 
+.banner-buttons1 {
+	float: right;
+}
+
+.banner-buttons2 {
+	float: left;
+}
+
 .screenshot {
 	float: right;
 	margin-right: 50px;
