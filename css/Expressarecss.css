@@ -120,7 +120,7 @@ html,body
 	font-family: courier;
 	font-weight: bold;
 	padding: 70px 0;
-	text-align: lefr;
+	text-align: center;
 	font-size: 50px;
 }
 
@@ -241,7 +241,6 @@ html,body
 }
 
 .appstore {
-    float: right;
 	margin: 10px;
 }
 
@@ -251,7 +250,7 @@ html,body
     font-weight: 400;
     padding-top: 0px;
     margin-top: -70px;
-	text-align: left;
+	text-align: center;
 }
 
 .banner-buttons {
@@ -259,11 +258,6 @@ html,body
     display: flex;
 	justify-content: center;
 	align-items: center;
-}
-
-.banner-buttons1 {
-	float: left;
-	margin-left: 10px;
 }
 
 .download-button {
