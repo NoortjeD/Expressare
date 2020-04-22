@@ -267,7 +267,11 @@ html,body
 }
 
 .banner-buttons1 {
-	margin-right: 10px;
+	float: right;
+}
+
+.banner-buttons2 {
+	float: left;
 }
 
 
