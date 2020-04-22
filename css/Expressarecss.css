@@ -83,7 +83,7 @@ html,body
 
 .big-banner1 {
     background-color: #FF0414;
-    height: 200px;
+    height: 300px;
 	margin: auto;
 	padding: 10px;
 	text-align: center;
@@ -124,7 +124,7 @@ html,body
 	font-weight: bold;
 	padding: 70px 0;
 	text-align: center;
-	font-size: 40px;
+	font-size: 50px;
 	
 }
 
@@ -142,6 +142,10 @@ html,body
 
 .card-img3 {
 	margin-left: 30px;
+}
+
+.card-padding {
+	padding: 10px;
 }
 
 
