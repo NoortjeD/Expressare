@@ -276,9 +276,8 @@ html,body
 }
 
 .screenshot1 {
-	float: right;
-	margin-right: 50px;
-	padding-right: 10px;
+	margin-right: 10px;
+	padding-right: auto;
 	margin-bottom: 10px;
 }
 
