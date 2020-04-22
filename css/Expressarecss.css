@@ -121,7 +121,17 @@ html,body
 	font-weight: bold;
 	padding: 70px 0;
 	text-align: center;
-	font-size: 50px;
+	font-size: 70px;
+}
+
+.banner-text2{
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 0px;
+    margin-top: -70px;
+	text-align: center;
+	font-size: 30px;
 }
 
 .banner-text {
@@ -242,15 +252,6 @@ html,body
 
 .appstore {
 	margin: 10px;
-}
-
-.banner-text2{
-    font-family: bebas-neue;
-    font-style: normal;
-    font-weight: 400;
-    padding-top: 0px;
-    margin-top: -70px;
-	text-align: center;
 }
 
 .banner-buttons {
