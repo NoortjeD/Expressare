@@ -91,8 +91,7 @@ html,body
 
 .big-banner2 {
     background-color: #FF6437;
-    height: 200px;
-
+    height: 300px;
 	margin: auto;
 	padding: 10px;
 	text-align: center;
@@ -100,8 +99,7 @@ html,body
 
 .big-banner3 {
     background-color: #FFD761;
-    height: 200px;
-
+    height: 300px;
 	margin: auto;
 	padding: 10px;
 	text-align: center;
@@ -109,14 +107,18 @@ html,body
 
 .big-banner4 {
     background-color: #FF42AD;
-    height: 200px;
+    height: 300px;
 	margin: auto;
 	padding: 10px;
 	text-align: center;
 }
 
 .big-banner5 {
-	background-color: #51F1E3
+	background-color: #51F1E3;
+	height: 300px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
 }
 
 .banner-text {
