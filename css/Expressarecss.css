@@ -288,7 +288,9 @@ html,body
 }
 
 .theapp-li {
-	text-align: left;
+    text-align: left;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+    font-size: x-large;
 }
 
 .centered-and-cropped {
