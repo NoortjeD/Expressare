@@ -301,6 +301,13 @@ html,body
 	width: 200px;
 }
 
+.card-img-top2 {
+	width: 400px;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
 .sub-about-us {
 	padding-top: 15px;
 	padding-bottom: 15px;
