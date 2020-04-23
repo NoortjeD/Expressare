@@ -171,6 +171,24 @@ html,body
 	font-size: 50px;
 }
 
+.banner-text-thanks {
+	font-family: courier;
+	font-weight: bold;
+	padding: 100px 0;
+	text-align: center;
+	font-size: 40px;
+}
+
+.banner-subtext-thanks {
+    font-family: bebas-neue;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 0px;
+    margin-top: -70px;
+	text-align: center;
+	font-size: 30px;
+}
+
 .banner-text-home {
     font-family: courier;
     font-weight: bold;
@@ -354,6 +372,10 @@ html,body
 
 .sub-title4 {
 	background-color: #FFC3E5;
+}
+
+.sub-title5 {
+	background-color: #D9FBF8;
 }
 
 .home-text {
