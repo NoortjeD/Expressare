@@ -68,6 +68,13 @@ html,body
 	background-color: #F8F9FA
 }
 
+.row2 {
+	margin-left: 10px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+	
+
 .nav-item {
 	margin: 5;
 	margin-right: 5px;
