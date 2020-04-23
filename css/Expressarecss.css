@@ -15,6 +15,10 @@ html,body
     margin-right: 20px;
 }
 
+.designheading {
+	font-family: "bebas-neue";
+}
+
 .fa {
 	float: left; 
 }
