@@ -60,6 +60,14 @@ html,body
     font-weight: bold;
 }
 
+.lotus {
+	margin-right: 10px;
+}
+
+.row1 {
+	background-color: #F8F9FA
+}
+
 .nav-item {
 	margin: 5;
 	margin-right: 5px;
