@@ -48,7 +48,7 @@ html,body
 .nav-link {
  	display: block;
  	padding: 0.5rem 1rem;
-	color: #7C7C7D;
+	color: #000000;
 }
 	
 
@@ -310,8 +310,7 @@ html,body
 }
 
 .screenshot {
-    float: left;
-	padding-left: 30px;
+
 }
 
 .theapp-li {
