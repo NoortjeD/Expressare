@@ -48,7 +48,7 @@ html,body
 .nav-link {
  	display: block;
  	padding: 0.5rem 1rem;
-	color: #000000;
+	color: #7C7C7D;
 }
 	
 
@@ -89,6 +89,10 @@ html,body
 
 .hovers:hover {
 	font-weight: bold;
+}
+
+.navblack {
+	color: black;
 }
 
 .btn {
