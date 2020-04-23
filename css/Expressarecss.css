@@ -302,8 +302,9 @@ html,body
 }
 
 .card-img-top2 {
-	width: 240px;
+	width: 200px;
 	margin-bottom: -15px;
+	margin-top: 10px;
 }
 
 .sub-about-us {
