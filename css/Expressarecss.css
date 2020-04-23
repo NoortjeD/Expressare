@@ -130,6 +130,14 @@ html,body
 	text-align: center;
 }
 
+.big-banner6 {
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-image: url(../images/banner.jpg);
+}
+
 .banner-text4 {
 	font-family: courier;
 	font-weight: bold;
@@ -152,6 +160,14 @@ html,body
 	font-family: courier;
 	font-weight: bold;
 	padding: 100px 0;
+	text-align: center;
+	font-size: 50px;
+}
+
+.banner-text-home {
+	font-family: courier;
+	font-weight: bold;
+	padding: 50px 0;
 	text-align: center;
 	font-size: 50px;
 }
@@ -412,6 +428,32 @@ html,body
     margin-right: 92px;
 	margin-bottom: 92px;
     margin-left: 92px;
+}
+
+.submitbtn {
+	color: black;
+	padding: 5px;
+}
+
+.submitbtn:hover {
+	color: black;
+	padding: 5px;
+}
+
+.contact {
+	margin-right: 20px;
+}
+
+.contact2 {
+	margin-right: 22px;
+}
+
+.contact3 {
+	margin-right: 57px;
+}
+
+.contact4 {
+	margin-right: 44px;
 }
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
